@@ -1,3 +1,7 @@
+
+
+Adding text to the master branch
+
 added some text to add from machine to git
 
 
